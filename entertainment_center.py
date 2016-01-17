@@ -16,7 +16,7 @@ jurassic_park = media.Movie ("Jurassic Park",
                              "Dinosaurs wreak havoc when they escape",
                              "https://upload.wikimedia.org/wikipedia/en/e/e7/Jurassic_Park_poster.jpg",
                              "https://www.youtube.com/watch?v=lc0UehYemQA")
-print(jurassic_park.storyline)
+#print(jurassic_park.storyline)
 
 movies = [toy_story, avatar, jurassic_park]
 
